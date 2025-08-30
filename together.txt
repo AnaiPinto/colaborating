@@ -1,3 +1,9 @@
 My idea for the project is to create a page with a collaborative project in data analytics. (Ana Queiroz)
 
 This line was added in the GitHub page (AQ) 
+
+This line was added com GitBash from my local computer. I still don't have a plan for my final project. It's 
+scarya t this stage. I have been enjoying this course but the constant catch up has been challenging and 
+tiring. AQ
+
+30.08.2025
